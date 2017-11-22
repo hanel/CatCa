@@ -44,7 +44,7 @@ switch(where,
          .workdir = ""
        },
 
-       "LEST" = {
+       "LEST" = { 
          .datadir = "C://testR//data//"
          .workdir = "C://testR//"
        },
